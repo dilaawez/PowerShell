@@ -8,3 +8,10 @@ I am just trying to create a new README file as a precursor to same file for all
 **Something more is about to come**
 
 ![PowerShell](https://github.com/dilaawez/PowerShell/blob/799fbb711a241e2011bb0c31d74a8af97581981e/PowerShell_Core_6.0_icon.png)
+
+```
+Get-help
+```
+```
+help is on the way.
+```
